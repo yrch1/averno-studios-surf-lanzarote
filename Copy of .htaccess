@@ -1,0 +1,16 @@
+AddType x-mapp-php5 .php
+
+
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /
+
+
+
+RewriteRule ^$ /en/ [R=301,L]
+
+
+
+RewriteRule ^(.+)/(.+)/$ /fuentes/$2-src.php?lang=$1 [L]
+
+RewriteRule ^(.+)/$ /fuentes/index-src.php?lang=$1 [L]

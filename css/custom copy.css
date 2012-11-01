@@ -1,0 +1,290 @@
+body {
+ font-family: Helvetica, Arial, sans-serif;
+	padding-top: 60px;
+    position: relative;
+    
+    /*background: url("../images/background.jpg") no-repeat scroll 200px 158px transparent;*/
+    
+    background-color: #f5f3f4;
+}
+
+
+#surf .container{
+
+ /*background: url("../images/background.jpg") no-repeat scroll 0 98px transparent;*/
+}
+
+
+#surf h1{
+	
+	font-size: 50px;
+	font-weight: lighter;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+
+}
+
+#surf h2{
+	
+	font-size: 36px;
+	font-weight: lighter;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+}
+
+#surf h2.left{
+	text-align: left;
+
+}
+
+#surf .bottom-border{
+
+	width: inherit;
+	height: 12px;
+	margin-bottom: 15px;
+}
+
+#surf .color1{
+
+	color:#333333;
+}
+
+#surf .bcolor1{
+	background-color: #333333;
+}
+
+#surf .color2{
+
+	color:#f1b04c;
+}
+
+#surf .bcolor2{
+
+	background-color:#f1b04c;
+}
+
+#surf .color3{
+
+	color:white;
+}
+
+#surf .bcolor3{
+
+	background-color:#343434;
+}
+
+#surf .color4{
+
+	color:#A5A5A5;
+}
+
+#surf .bcolor4{
+
+	background-color:#A5A5A5;
+}
+
+#surf .color5{
+
+	color:white;
+}
+
+#surf .bcolor5{
+
+	background-color:white;
+}
+
+
+#surf .color6{
+
+	color:#dad8d9;
+}
+
+#surf .bcolor6{
+
+	background-color:#dad8d9;
+}
+
+
+
+
+#surf p{
+
+	color: #343434;
+	font-size: 14px;
+}
+
+#surf p b{
+
+	color: #f1b04c;
+	font-weight: bold;
+}
+
+#surf .textCenter{
+	text-align: center;
+}
+
+
+#surf .portrait{
+
+	width: 220px;
+	height: 220px;
+	
+}
+
+#surf .portrait-container{
+	width: 220px;
+	margin: 10px auto;
+}
+
+
+#surf #row1{
+	height: 153px;
+	margin-top: 3px;
+}
+
+#surf #row3{
+	margin-top: 96px;
+}
+
+#surf #row3 .span9{
+	border-left: 1px black solid;
+	width: 679px;
+	padding-left: 20px;
+}
+
+
+
+#surf .zone1{
+	color: #9c9c9c; 
+}
+
+#surf .zone1 h1{
+	margin-bottom: 20px;
+}
+
+#surf #zone-2-1{
+
+	background-color: #333333;
+    border-radius: 6px 6px 6px 6px;
+    opacity:0.85;
+    filter:alpha(opacity=85); /* For IE8 and earlier */
+    color: #9C9C9C;
+	height: 366px;
+	margin-left: 94px;
+	width: 778px;
+    
+}
+
+#surf #zone-2-1 h2{
+    font-size: 50px;
+    line-height: 52px;
+}
+
+#surf #zone-2-1 .span6{
+
+	width: 368px;
+
+}
+
+#surf #zone-2-1 p{
+	color: #A5A5A5;
+
+}
+
+#surf #zone-2-1 a{
+	text-decoration: none;
+	color: #A5A5A5;
+
+}
+
+#surf #zone-2-1 a:hover{
+	text-decoration: none;
+	color: #f1b04c;
+
+}
+
+#surf #footer{
+
+	height: 200px;
+	background-color: #cccccc;
+	margin-top: -15px;
+	padding-top: 20px;
+}
+
+
+#surf #footer h2{
+
+	margin-top: 35px;
+}
+
+
+#surf #footer p{
+	text-align: center;
+}
+
+#surf .menu{
+
+	text-align: right;
+	color: #9C9C9C;
+	margin-right: -4px;
+}
+
+#surf .menu .enlace{
+	margin-bottom: 8px;
+	padding: 4px;
+	color: #343434;
+
+}
+
+#surf .menu .enlace:hover{
+
+	margin-bottom: 8px;
+	background-color: #343434;
+	color: white;
+	padding: 4px;
+
+}
+
+
+#surf .menu a{
+	
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#surf .menu a:hover{
+	color: white;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+
+
+/*Pictogramas*/
+
+#surf .pictograma{
+	margin-top: 30px;
+}
+#surf p.pictoText{
+	padding-top: 10px;
+    width: 220px;
+
+}
+
+#surf .pictograma a{
+	color: #1F7285;
+}
+
+/*Contacta*/
+
+#surf #contactaEmailZone{
+	margin-top: 20px;
+}
+
+#surf #contactaEmailZone img{
+	margin-bottom: 10px;
+}
+

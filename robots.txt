@@ -1,0 +1,12 @@
+User-agent: Yandex 
+Disallow: / 
+
+User-agent: *
+Disallow: /*.js$
+Disallow: /src/
+Disallow: /logs/
+Disallow: /*.php$
+Disallow: /de/
+Disallow: /de/*
+Disallow: /i18n/
+Sitemap: http://surf-lanzarote.com/sitemap.xml

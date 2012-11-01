@@ -1,0 +1,678 @@
+body {
+	font-family: 'Cabin', Helvetica, Arial, sans-serif; 
+	font-weight: 400;
+	padding-top: 60px;
+    position: relative;
+    
+    /*background: url("../images/background.jpg") no-repeat scroll 200px 158px transparent;*/
+   
+   background-image: url("../images/background.jpeg");
+    /* background: url("../images/fondoReferencia.png") no-repeat;
+       opacity: 0.8;
+     */
+    background-color: #f5f3f4;
+    
+}
+
+
+#surf .container{
+
+ background: url("../images/background2.jpg") no-repeat scroll 0 98px transparent;
+}
+
+
+#surf h1 a,#surf h1 a:hover{
+	
+	text-decoration: none;
+	color: #363033;
+	background:none;
+}
+
+
+#surf h1{
+	
+	font-size: 50px;
+	text-align: center;
+	font-weight: 700;
+	font-family: 'Lobster Two', cursive;
+	font-style: italic;
+
+}
+
+#surf h1::selection, #surf h1 a::selection, #surf h2::selection, #surf p::selection, #surf p a::selection, #surf p b::selection, #surf #row3 .bordeLateral li::selection, #surf li::selection, #surf li b::selection, #surf ul::selection, #surf h3::selection {
+	background: rgba(255, 255, 0, 0.8);
+}
+
+#surf #row2Hero h2::selection, #surf p.fontSize15::selection, #surf p.fontSize16::selection, #surf p.fontSize16 a::selection, #portraitZone p::selection, #surf #contactaEmailZone #emailDiv #emailDivChild::selection, #surf #contactaEmailZone #emailDiv #emailDivChild span::selection {
+	background: rgba(255, 255, 0, 0.35);
+}
+
+#surf div::selection, #surf img::selection, #surf .menu li::selection, #surf .menu ul::selection, #surf #fotos a::selection, #surf #row4 .bottom-border::selection{
+	background: rgba(255, 255, 0, 0);
+}
+
+#surf h2{
+	
+	font-size: 45px;
+	text-align: center;
+	font-weight: 700;
+	font-family: 'Lobster Two', cursive;
+	font-style: italic;
+	margin-top: 20px;
+
+}
+
+#surf h3{
+	color:#363033;
+}
+
+#surf .FotoDeApoyo {
+	text-align:center;
+	margin:20px 0 20px;
+}
+
+#surf .FotoDeApoyo img{
+	border-radius: 3px;
+}
+
+#surf h2.left{
+	text-align: left;
+
+}
+
+#surf .bottom-border{
+
+	height: 10px;
+    margin-bottom: 25px;
+    margin-top: 10px;
+    width: inherit;
+}
+
+#surf .color1{
+
+	color:#333333;
+}
+
+#surf .bcolor1{
+	background-color: #333333;
+}
+
+#surf .color2{
+
+	color:#F8AC59;
+}
+
+#surf .bcolor2{
+
+	background-color:#F8AC59;
+}
+
+#surf .color3{
+
+	color:#F5F3F4;
+}
+
+#surf .bcolor3{
+
+	background-color:#343434;
+}
+
+#surf .color4{
+
+	color:#A5A5A5;
+}
+
+#surf .bcolor4{
+
+	background-color:#A5A5A5;
+}
+
+#surf .color5{
+
+	color:#F5F3F4;
+}
+
+#surf .bcolor5{
+
+	background-color:#F5F3F4;
+}
+
+
+#surf .color6{
+
+	color:#dad8d9;
+}
+
+#surf .bcolor6{
+
+	background-color:#dad8d9;
+}
+
+
+#surf .color7{
+
+	color:#999999;
+}
+
+
+#surf .color8{
+	color:#666666;
+	cursor:default;
+}
+
+
+
+#surf p, #surf ul{
+
+	color: #333333;
+	font-size: 14px;
+}
+
+#surf li{
+
+	margin-top: 8px;
+}
+
+#surf p b{
+
+	font-weight: bold;
+}
+
+#surf .textCenter{
+	text-align: center;
+}
+
+
+
+#surf #row2Hero #portraitZone p{
+	font-size: 12px;
+    margin-left: 30px;
+    margin-right: 10px;
+    line-height: 1.2em;
+    margin-bottom: 43px;
+}
+
+#surf .portrait{
+	border-radius: 2px;
+	width: 220px;
+	height: 220px;
+	margin-left: 10px;
+	
+}
+
+#surf .portrait-container{
+	width: 220px;
+	margin: 10px auto;
+}
+
+
+#surf #row1{
+	height: 170px;
+}
+
+#surf #row1 a.tooltip_idioma{
+	text-decoration: none;
+	font-weight: normal;
+
+}
+
+#surf #row1 a.tooltip_idioma:hover{
+	/*text-decoration: underline;*/
+	color: #F5F3F4;
+	background-color:#797575;
+	border-radius:2px;
+	padding:2px;
+	margin:-2px;
+
+
+	/*font-weight: bold; */
+}
+
+#surf #row1 .bottom-border{
+	
+	margin-top:20px;
+}
+/* We offer */
+#surf #row3{
+	margin-top: 96px;
+	font-size: 12px;
+}
+
+#surf #row3 .bordeLateral{
+	border-left: 1px solid #363033;
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 500px;
+}
+
+#surf #row3 .bordeLateral .paddingRight20{
+	
+	width: 500px;
+}
+
+#surf #row3 .bordeLateral li{
+	
+	line-height: 10px;
+}
+
+#surf #row3 #morePhotos{
+	text-align:right;
+	margin-top: 20px;
+}
+
+#surf #row3 #morePhotos a{
+	color:#808080;
+}
+
+
+
+#surf .zone1{
+	color: #9c9c9c; 
+}
+
+#surf .zone1 h1{
+	margin-bottom: 14px;
+}
+
+#surf .zone1{
+	
+	font-size: 13px;
+}
+
+
+#surf .background333333{
+	
+	/*background-image: url('../images/1por1.png');*/
+	background-color: rgba(33, 33, 33, 0.14);
+}
+
+
+#surf #fotos a{
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 70px;
+    margin: 10px;
+    width: 109px;
+    -moz-opacity:.75; filter:alpha(opacity=75); opacity:.75;
+	border-radius: 3px;
+
+}
+
+#surf #fotos a:hover{
+    background-position: 0px -70px;
+    text-decoration: none;
+     -moz-opacity:1.00; filter:alpha(opacity=100); opacity:1.00;
+	padding:0;
+}
+
+
+
+#surf #fotos  a.imageTrigger1{
+		background-image: url('../images/thumbnails/thumbnail1.jpg');
+}
+
+#surf #fotos  a.imageTrigger2{
+		
+		background-image: url('../images/thumbnails/thumbnail2.jpg');
+}
+
+#surf #fotos  a.imageTrigger3{
+		
+		background-image: url('../images/thumbnails/thumbnail3.jpg');
+}
+
+#surf #fotos  a.imageTrigger4{
+		
+		background-image: url('../images/thumbnails/thumbnail4.jpg');
+}
+
+#surf #fotos  a.imageTrigger5{
+		
+		background-image: url('../images/thumbnails/thumbnail5.jpg');
+}
+
+#surf #fotos  a.imageTrigger6{
+		
+		background-image: url('../images/thumbnails/thumbnail6.jpg');
+}
+
+#surf #fotos  a.imageTrigger7{
+		
+		background-image: url('../images/thumbnails/thumbnail7.jpg');
+}
+
+#surf #fotos  a.imageTrigger8{
+		
+		background-image: url('../images/thumbnails/thumbnail8.jpg');
+}
+
+#surf #fotos  a.imageTrigger9{
+		
+		background-image: url('../images/thumbnails/thumbnail9.jpg');
+}
+
+#surf #fotos  a.imageTrigger10{
+		
+		background-image: url('../images/thumbnails/thumbnail10.jpg');
+}
+
+#surf #fotos  a.imageTrigger11{
+		
+		background-image: url('../images/thumbnails/thumbnail11.jpg');
+}
+
+#surf #fotos  a.imageTrigger12{
+		
+		background-image: url('../images/thumbnails/thumbnail12.jpg');
+}
+
+
+
+#surf #fotos .miniaturas-esquina{
+		margin-left: 0px;
+}
+/* ROW2 */
+
+#surf #row2Hero{
+	background-color: rgba(51,51,51,0.85);
+    border-radius: 6px 6px 6px 6px;
+    /*opacity:0.85;
+    filter:alpha(opacity=85); /* For IE8 and earlier */
+    color: #9C9C9C;
+	margin-left: 0px;
+	
+}
+
+#surf #row2Hero h2{
+	font-size: 50px;
+    line-height: 52px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+	opacity:1;
+
+}
+
+#surf #row2Hero .span5{
+	margin-top: 40px;
+	margin-bottom: 16px;
+	width: 360px;
+}
+
+#surf #row2Hero p{
+	color: #B2B1B2;
+    margin-left: 10px;
+}
+
+#surf #row2Hero a{
+	text-decoration: none;
+	color: #F5F3F4;
+
+}
+
+#surf #row2Hero a:hover{
+	color: #363033;
+	margin:-2px;
+	padding:2px;
+	background-color:#F8AC59;
+	border-radius:2px;
+
+}
+
+
+#surf .menu{
+
+	text-align: right;
+	color: #666666;
+	margin-right: -4px;
+	font-size: 12px;
+}
+
+#surf .menu .enlace{
+	color: #333333;
+	font-size: 24px;
+	font-weight: bold;
+	height: 35px;
+}
+
+#surf .menu .innerEnlace{
+
+	padding-top: 16px;
+}
+
+#surf .menu .selected{
+
+	background-color: #363033;
+	color: #F5F3F4;
+
+}
+
+#surf .menu .selected .innerEnlace{
+	padding-right: 10px;
+
+}
+
+
+#surf .menu .enlace:hover{
+
+	background-color: #363033;
+	color: #F5F3F4;
+
+}
+
+#surf .menu a{
+	
+	font-size: 20px;
+	text-decoration: none;
+}
+
+#surf .menu a:hover{
+	color: #F5F3F4;
+	font-size: 20px;
+	text-decoration: none;
+	margin:0;
+	padding:0;
+}
+
+#surf .menu li{
+	line-height: 0px;
+}
+
+
+
+/*Pictogramas*/
+#surf #row4 .bottom-border{
+	
+	margin-bottom: 16px;
+}
+
+#surf .pictograma{
+	margin-top: 30px;
+}
+#surf p.pictoText{
+	padding-top: 10px;
+    width: 220px;
+
+}
+
+#surf a{
+	color: #0B8EAC;
+	font-weight: 700;
+}
+
+#surf a.molon:hover{
+	background-color: #0B8EAC;
+	color:#F5F3F4;
+	border-radius:2px;
+	margin:-2px;
+	padding:2px;
+	text-decoration:none;
+}
+
+
+/*Contacta*/
+
+#surf #contactaEmailZone{
+	margin-top: 20px;
+}
+
+#surf #contactaEmailZoneInner{
+	text-align: center;
+	margin-right: 30px;
+}
+
+#surf #contactaEmailZone img{
+	margin-bottom: 10px;
+}
+
+#surf #contactaEmailZone #emailDiv{
+	
+	width: 350px;
+	height: 55px;
+	background-color: #333333;
+    border-radius: 6px 6px 6px 6px;
+    color: #F8AC59;
+    opacity: 0.85;
+    font-size: 20px;
+}
+
+#surf #contactaEmailZone #emailDiv  #emailDivChild{
+	padding-top: 17px;
+}
+
+#surf #contactaEmailZone #emailDiv  #emailDivChild .arroba{
+	font-family: Helvetica, arial;
+}
+
+
+#surf .emptyRow{
+
+	height: 30px;	
+	
+}
+
+#surf .emptyRow20{
+
+	height: 20px;	
+	
+}
+
+#surf #row6 .bottom-border{
+	
+	margin-bottom: 7px;
+}
+
+
+/*footer*/
+#surf #footerContainer{
+}
+
+#surf #footer{
+
+	height: 300px;
+	background-color: #cccccc;
+	margin-top: -25px;
+	padding-top: 40px;
+}
+
+
+#surf #footer h2{
+
+	margin-top: 210px;
+}
+
+#surf #footer p{
+	text-align: center;
+}
+
+#surf .marginTop20{
+	margin-top:20px;
+}
+
+#surf .marginTop25{
+	margin-top:25px;
+}
+
+#surf .marginTop10{
+	margin-top:10px;
+}
+
+#surf .marginTop14{
+	margin-top:14px;
+}
+
+#surf .marginTop15{
+	margin-top:15px;
+}
+
+
+#surf .marginTop40{
+	margin-top:40px;
+}
+
+#surf .marginTop35{
+	margin-top:35px;
+}
+
+
+#surf .marginTop80{
+	margin-top:80px;
+}
+
+#surf .marginTop110{
+	margin-top:110px;
+}
+
+
+#surf .marginTop140{
+	margin-top:140px;
+}
+
+#surf .marginTop210{
+	margin-top:210px;
+}
+
+#surf .marginBottom15{
+	
+	margin-bottom: 15px;
+}
+
+#surf .textAlignRight{
+	
+	text-align: right;
+	
+}
+
+#surf .fontSize16{
+	font-size: 16px;
+	
+}
+
+
+#surf .fontSize15{
+	font-size: 15px;
+	
+}
+
+
+#surf .tooltip-inner{
+	background-color: #ACAAAA;
+	color: #333333;
+}
+
+#surf .tooltip.bottom .tooltip-arrow {
+	border-bottom: 5px solid #ACAAAA;
+}
+
+.tooltip.in {
+	opacity:0.98;
+	filter: alpha(opacity=98);
+}
+
+
+#surf	#menuLoadingImg{
+	margin-left: 200px;
+    margin-top: 200px;
+    position: absolute;
+    opacity: 1;
+    z-index: 1000;
+	}
