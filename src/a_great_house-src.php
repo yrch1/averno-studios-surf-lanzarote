@@ -25,7 +25,7 @@ $locale = $_GET["lang"];
 
 	<body id="surf" >
 
-		<div class="container zone1">
+		<div itemscope itemtype="http://schema.org/LodgingBusiness" class="container zone1">
 
 			<div class="row" id="row1">
 				<div class="span12">
