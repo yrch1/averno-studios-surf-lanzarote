@@ -26,8 +26,8 @@
 		<link href='http://fonts.googleapis.com/css?family=Cabin:400,700' rel='stylesheet' type='text/css'>
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-tooltip.js"></script>
-		<script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.js"></script>
+		<script src="/js/bootstrap-tooltip.js"></script>
+		<script src="/js/bootstrap.js"></script>
 		
 		<!--
 		<script src="<?php echo urlPath() ?>/js/jquery.fancybox-1.3.4.js"></script>
