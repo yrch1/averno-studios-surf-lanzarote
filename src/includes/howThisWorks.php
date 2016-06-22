@@ -13,7 +13,7 @@
 					<h2 class="color1"><?php echo translate('Prices',$locale) ?></h2>
 					<div class="bottom-border bcolor1"></div>
 					<ul>
-						<li>
+						<li itemProp="priceRange">
 							<?php echo translate('House 100 per night the whole house we cant rent rooms individually at this moment',$locale) ?>							
 						</li>
 						<li>

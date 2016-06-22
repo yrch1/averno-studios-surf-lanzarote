@@ -17,7 +17,7 @@ body {
 
 #surf .container{
 
- background: url("../images/background2.jpg") no-repeat scroll 0 98px transparent;
+ background: url("../images/background3.jpg") no-repeat scroll 0 98px transparent;
 }
 
 
@@ -208,6 +208,10 @@ body {
 
 #surf #row1{
 	height: 170px;
+}
+
+#surf #row1 .bottom-border{
+	display:none;
 }
 
 #surf #row1 a.tooltip_idioma{

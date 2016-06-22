@@ -31,7 +31,7 @@
 								</div>
 								<div class="span4">
 									<p class="pictoText">
-										<?php echo translate('Trying to pinpoint us?',$locale) ?> <a href="http://goo.gl/maps/kE6p" target="_blank" class="molon"><?php echo translate('We are here',$locale) ?></a>.
+										<?php echo translate('Trying to pinpoint us?',$locale) ?> <a itemprop="map" href="http://goo.gl/maps/kE6p" target="_blank" class="molon"><?php echo translate('We are here',$locale) ?></a>.
 									</p>
 								</div>
 							</div>
